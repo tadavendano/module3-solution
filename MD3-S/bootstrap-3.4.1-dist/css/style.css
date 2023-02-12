@@ -194,36 +194,4 @@ h2 {
 	
 	
 }
-.navbar-header {
-	color: black;
-	text-align: left;
-	font-size: 50%;
-}
-
-
-
-.navbar-brand h1 {
-  font-family: fantasy;
-  line-height: .75;
-  text-align: center;
-  color: black;
-  font-size: 1.8em;
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 0;
-
-}
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
-}
-
-
-#nav-list > li {
-    font-family: fantasy;
-    color: gray;
-	background-color: brown;
-	font-size: 0.5em;
-
-}
 }

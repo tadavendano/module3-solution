@@ -128,4 +128,70 @@ body {
 	}
 	/* End Header */
 	
+	section {
+	position: relative;
+	
+}
+
+p {
+	position: relative;
+	clear: right;
+}
+
+#Chickentitle{
+	font-size: 30px;
+	
+}
+
+#Beeftitle{
+	font-size: 30px;
+}
+
+#Sushititle{
+	font-size: 30px;
+}
+
+div {
+	position: relative;
+	margin: auto;
+}
+
+h2 {
+	font-family: fantasy;
+	text-align: left;
+
+    
+}
+
+
+
+#Chicken {
+	background-color: gray ;
+	text-align: center;
+	padding: auto;
+	margin-bottom: 20px;
+	height: 700px;
+	
+}
+
+#Beef {
+	background-color: gray;
+	text-align: center;
+	padding: auto;
+	margin-bottom: 20px;
+	height: 700px;
+	
+
+}
+
+#Sushi {
+	background-color: gray;
+	text-align: center;
+	position: inherit;
+	padding: auto;
+	margin: auto;
+	height: 700px;
+	
+	
+}
 }

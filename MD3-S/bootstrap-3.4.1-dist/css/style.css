@@ -45,6 +45,7 @@ div {
 h2 {
 	font-family: fantasy;
 	text-align: left;
+	color: black;
 
     
 }
@@ -142,7 +143,7 @@ h2 {
 #nav-list > li {
     font-family: fantasy;
     color: white;
-	background-color: gray;
+	background-color: black;
 	font-size: 0.5em;
 
 }

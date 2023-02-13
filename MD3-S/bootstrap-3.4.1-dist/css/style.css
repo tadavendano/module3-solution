@@ -25,18 +25,18 @@ p {
 }
 
 #Chickentitle{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: serif;
 	
 }
 
 #Beeftitle{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: serif;
 }
 
 #Sushititle{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: serif;
 }
 
@@ -92,7 +92,6 @@ h2 {
 
 .Chicken {
 	font-size: 150%;
-	text-align: center;
 }
 
 .Beef {
